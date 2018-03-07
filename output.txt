@@ -1,0 +1,554 @@
+success delete html and css files from previous builds — 0.041 s
+success open and validate gatsby-config.js — 0.005 s
+success copy gatsby files — 0.018 s
+success onPreBootstrap — 0.014 s
+success source and transform nodes — 0.013 s
+success building schema — 0.079 s
+success createLayouts — 0.018 s
+⠁
+
+
+
+Creating 500 pages fetching data via graphql
+
+
+success createPages — 0.578 s
+success createPagesStatefully — 0.127 s
+success onPreExtractQueries — 0.000 s
+success update schema — 0.149 s
+success extract queries from components — 0.036 s
+success run graphql queries — 0.623 s
+success write out page data — 0.022 s
+success write out redirect data — 0.001 s
+success onPostBootstrap — 0.000 s
+
+info bootstrap finished - 3.138 s
+
+success Building CSS — 3.798 s
+success Building production JavaScript bundles — 12.460 s
+success Building static HTML for pages — 5.916 s
+info Done building in 25.323 sec
+success delete html and css files from previous builds — 0.048 s
+success open and validate gatsby-config.js — 0.006 s
+success copy gatsby files — 0.016 s
+success onPreBootstrap — 0.013 s
+success source and transform nodes — 0.013 s
+success building schema — 0.068 s
+success createLayouts — 0.019 s
+⠁
+
+
+
+Creating 1000 pages fetching data via graphql
+
+
+success createPages — 1.516 s
+success createPagesStatefully — 0.229 s
+success onPreExtractQueries — 0.001 s
+success update schema — 0.295 s
+success extract queries from components — 0.045 s
+success run graphql queries — 1.279 s
+success write out page data — 0.078 s
+success write out redirect data — 0.001 s
+success onPostBootstrap — 0.000 s
+
+info bootstrap finished - 4.933 s
+
+success Building CSS — 4.141 s
+success Building production JavaScript bundles — 22.259 s
+success Building static HTML for pages — 11.077 s
+info Done building in 42.415 sec
+success delete html and css files from previous builds — 0.009 s
+success open and validate gatsby-config.js — 0.005 s
+success copy gatsby files — 0.018 s
+success onPreBootstrap — 0.023 s
+success source and transform nodes — 0.014 s
+success building schema — 0.078 s
+success createLayouts — 0.029 s
+⠁
+
+
+
+Creating 1500 pages fetching data via graphql
+
+
+success createPages — 2.193 s
+success createPagesStatefully — 0.174 s
+success onPreExtractQueries — 0.000 s
+success update schema — 0.254 s
+success extract queries from components — 0.038 s
+success run graphql queries — 2.087 s
+success write out page data — 0.055 s
+success write out redirect data — 0.001 s
+success onPostBootstrap — 0.000 s
+
+info bootstrap finished - 8.352 s
+
+success Building CSS — 4.468 s
+
+error Generating JavaScript bundles failed
+
+
+  Error: app-cd8f53fc164902a9621f.js from UglifyJs
+  RangeError: Maximum call stack size exceeded
+      at String.replace (<anonymous>)
+      at make_string (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_mod  ules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:3927:19)
+      at encode_string (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_m  odules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:3967:19)
+      at Object.print_string (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/  node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:4194:27)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/we  bpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:5052:16)
+      at doit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/we  bpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:4247:13)
+      at AST_String.eval [as print] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-  sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:4253:13)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/we  bpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:4911:23)
+      at doit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/we  bpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:4247:13)
+      at AST_Sub.eval [as print] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sam  ple/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:4253:13)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/we  bpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:4931:19)
+      at doit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/we  bpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:4247:13)
+      at AST_Assign.eval [as print] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-  sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:4253:13)
+      at AST_Seq.eval [as _do_print] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby  -sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:4874:18)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/we  bpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:4885:14)
+      at doit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/we  bpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:4247:13)
+
+success delete html and css files from previous builds — 0.030 s
+success open and validate gatsby-config.js — 0.006 s
+success copy gatsby files — 0.015 s
+success onPreBootstrap — 0.019 s
+success source and transform nodes — 0.013 s
+success building schema — 0.085 s
+success createLayouts — 0.029 s
+⠁
+
+
+
+Creating 2000 pages fetching data via graphql
+
+
+success createPages — 3.317 s
+success createPagesStatefully — 0.214 s
+success onPreExtractQueries — 0.001 s
+success update schema — 0.384 s
+success extract queries from components — 0.043 s
+success run graphql queries — 2.718 s
+success write out page data — 0.110 s
+success write out redirect data — 0.002 s
+success onPostBootstrap — 0.001 s
+
+info bootstrap finished - 8.939 s
+
+success Building CSS — 5.640 s
+
+error Generating JavaScript bundles failed
+
+
+  Error: app-ddabf2c36912d02a224a.js from UglifyJs
+  RangeError: Maximum call stack size exceeded
+      at RegExp.test (<anonymous>)
+      at is_identifier_string (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample  /node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:1527:36)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/we  bpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:8133:73)
+      at AST_Sub.eval [as optimize] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-  sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:5387:23)
+      at Compressor.before (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/no  de_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:5370:21)
+      at AST_Sub.eval [as transform] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby  -sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:2985:35)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/we  bpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:3120:31)
+      at Compressor.before (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/no  de_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:5369:9)
+      at AST_Assign.eval [as transform] (eval at <anonymous> (/Users/paul/Development/javascript/gat  sby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:2985:35)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/we  bpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:3102:29)
+      at Compressor.before (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/no  de_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:5369:9)
+      at AST_Seq.eval [as transform] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby  -sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:2985:35)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/we  bpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:3103:29)
+      at Compressor.before (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/no  de_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:5369:9)
+      at AST_Seq.eval [as transform] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby  -sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:2985:35)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/we  bpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:3103:29)
+
+success delete html and css files from previous builds — 0.034 s
+success open and validate gatsby-config.js — 0.005 s
+success copy gatsby files — 0.030 s
+success onPreBootstrap — 0.030 s
+success source and transform nodes — 0.025 s
+success building schema — 0.110 s
+success createLayouts — 0.036 s
+⠁
+
+
+
+Creating 2500 pages fetching data via graphql
+
+
+success createPages — 5.085 s
+success createPagesStatefully — 0.280 s
+success onPreExtractQueries — 0.000 s
+success update schema — 0.384 s
+success extract queries from components — 0.093 s
+success run graphql queries — 4.793 s
+success write out page data — 0.113 s
+success write out redirect data — 0.001 s
+success onPostBootstrap — 0.001 s
+
+info bootstrap finished - 13.103 s
+
+success Building CSS — 7.392 s
+
+error Generating JavaScript bundles failed
+
+
+  Error: app-4345986457009050fbb8.js from UglifyJs
+  RangeError: Maximum call stack size exceeded
+      at TreeTransformer.before (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:  6799:32)
+      at AST_SymbolRef.eval [as transform] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <  anonymous>:2985:35)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:3097:43)
+      at AST_Call.eval [as transform] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anony  mous>:2989:21)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:3121:33)
+      at AST_Assign.eval [as transform] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <ano  nymous>:2989:21)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:3102:29)
+      at AST_Seq.eval [as transform] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonym  ous>:2989:21)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:3103:29)
+      at AST_Seq.eval [as transform] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonym  ous>:2989:21)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:3103:29)
+      at AST_Seq.eval [as transform] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonym  ous>:2989:21)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:3103:29)
+      at AST_Seq.eval [as transform] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonym  ous>:2989:21)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:3103:29)
+      at AST_Seq.eval [as transform] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonym  ous>:2989:21)
+
+success delete html and css files from previous builds — 0.019 s
+success open and validate gatsby-config.js — 0.006 s
+success copy gatsby files — 0.022 s
+success onPreBootstrap — 0.024 s
+success source and transform nodes — 0.016 s
+success building schema — 0.097 s
+success createLayouts — 0.039 s
+⠁
+
+
+
+Creating 3000 pages fetching data via graphql
+
+
+success createPages — 6.405 s
+success createPagesStatefully — 0.307 s
+success onPreExtractQueries — 0.001 s
+success update schema — 0.555 s
+success extract queries from components — 0.056 s
+success run graphql queries — 5.620 s
+success write out page data — 0.140 s
+success write out redirect data — 0.001 s
+success onPostBootstrap — 0.000 s
+
+info bootstrap finished - 15.182 s
+
+⠠ Building CSS[BABEL] Note: The code generator has deoptimised the styling of "/Users/paul/Development/javascript/gatsby-sample/.cache/sync-requires.js" as it exceeds the max of "500KB".
+success Building CSS — 8.905 s
+⠂ Building production JavaScript bundles[BABEL] Note: The code generator has deoptimised the styling of "/Users/paul/Development/javascript/gatsby-sample/.cache/async-requires.js" as it exceeds the max of "500KB".
+
+error Generating JavaScript bundles failed
+
+
+  Error: app-2db1552d767d3bb3ce88.js from UglifyJs
+  RangeError: Maximum call stack size exceeded
+      at TreeWalker.eval [as visit] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymo  us>:3246:37)
+      at TreeWalker._visit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:1268:  24)
+      at AST_Number._walk (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:427:24  )
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:901:21)
+      at Array.forEach (<anonymous>)
+      at AST_Call.eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:900:23)
+      at TreeWalker._visit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:1272:  21)
+      at AST_Call._walk (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:898:24)
+      at AST_Assign.eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:1035:24  )
+      at TreeWalker._visit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:1272:  21)
+      at AST_Assign._walk (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:1033:2  4)
+      at AST_Seq.eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:971:22)
+      at TreeWalker._visit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:1272:  21)
+      at AST_Seq._walk (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:970:24)
+      at AST_Seq.eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:972:36)
+      at TreeWalker._visit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:1272:  21)
+
+success delete html and css files from previous builds — 0.038 s
+success open and validate gatsby-config.js — 0.006 s
+success copy gatsby files — 0.020 s
+success onPreBootstrap — 0.019 s
+success source and transform nodes — 0.015 s
+success building schema — 0.102 s
+success createLayouts — 0.035 s
+⠁
+
+
+
+Creating 500 pages passing data via 'pathContext'
+
+
+success createPages — 0.653 s
+success createPagesStatefully — 0.065 s
+success onPreExtractQueries — 0.001 s
+success update schema — 0.146 s
+warning The GraphQL query in the non-page component "/Users/paul/Development/javascript/gatsby-sample/src/templates/data-product.jsx" will not be run.
+Queries are only executed for Page or Layout components. Instead of a query,
+co-locate a GraphQL fragment and compose that fragment into the query (or other
+fragment) of the top-level page or layout that renders this component. For more
+info on fragments and composition see: http://graphql.org/learn/queries/#fragments
+success extract queries from components — 0.039 s
+success run graphql queries — 0.236 s
+success write out page data — 0.026 s
+success write out redirect data — 0.001 s
+success onPostBootstrap — 0.001 s
+
+info bootstrap finished - 3.242 s
+
+success Building CSS — 4.198 s
+success Building production JavaScript bundles — 12.791 s
+success Building static HTML for pages — 5.886 s
+info Done building in 26.146 sec
+success delete html and css files from previous builds — 0.042 s
+success open and validate gatsby-config.js — 0.006 s
+success copy gatsby files — 0.017 s
+success onPreBootstrap — 0.016 s
+success source and transform nodes — 0.027 s
+success building schema — 0.084 s
+success createLayouts — 0.029 s
+⠁
+
+
+
+Creating 1000 pages passing data via 'pathContext'
+
+
+success createPages — 1.558 s
+success createPagesStatefully — 0.228 s
+success onPreExtractQueries — 0.001 s
+success update schema — 0.368 s
+warning The GraphQL query in the non-page component "/Users/paul/Development/javascript/gatsby-sample/src/templates/data-product.jsx" will not be run.
+Queries are only executed for Page or Layout components. Instead of a query,
+co-locate a GraphQL fragment and compose that fragment into the query (or other
+fragment) of the top-level page or layout that renders this component. For more
+info on fragments and composition see: http://graphql.org/learn/queries/#fragments
+success extract queries from components — 0.065 s
+success run graphql queries — 0.556 s
+success write out page data — 0.090 s
+success write out redirect data — 0.001 s
+success onPostBootstrap — 0.001 s
+
+info bootstrap finished - 4.674 s
+
+success Building CSS — 5.518 s
+success Building production JavaScript bundles — 24.092 s
+success Building static HTML for pages — 9.440 s
+info Done building in 43.731 sec
+success delete html and css files from previous builds — 0.017 s
+success open and validate gatsby-config.js — 0.006 s
+success copy gatsby files — 0.022 s
+success onPreBootstrap — 0.018 s
+success source and transform nodes — 0.015 s
+success building schema — 0.089 s
+success createLayouts — 0.028 s
+⠁
+
+
+
+Creating 1500 pages passing data via 'pathContext'
+
+
+success createPages — 2.189 s
+success createPagesStatefully — 0.169 s
+success onPreExtractQueries — 0.007 s
+success update schema — 0.331 s
+warning The GraphQL query in the non-page component "/Users/paul/Development/javascript/gatsby-sample/src/templates/data-product.jsx" will not be run.
+Queries are only executed for Page or Layout components. Instead of a query,
+co-locate a GraphQL fragment and compose that fragment into the query (or other
+fragment) of the top-level page or layout that renders this component. For more
+info on fragments and composition see: http://graphql.org/learn/queries/#fragments
+success extract queries from components — 0.041 s
+success run graphql queries — 0.611 s
+success write out page data — 0.096 s
+success write out redirect data — 0.001 s
+success onPostBootstrap — 0.000 s
+
+info bootstrap finished - 5.807 s
+
+success Building CSS — 5.992 s
+
+error Generating JavaScript bundles failed
+
+
+  Error: app-e6df44aa45d2efed4c83.js from UglifyJs
+  RangeError: Maximum call stack size exceeded
+      at String.replace (<anonymous>)
+      at make_string (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:3927:19)
+      at encode_string (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:3967:19)
+      at Object.print_string (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:419  4:27)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:5052:16)
+      at doit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:4247:13)
+      at AST_String.eval [as print] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymo  us>:4253:13)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:4911:23)
+      at doit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:4247:13)
+      at AST_Sub.eval [as print] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>  :4253:13)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:4931:19)
+      at doit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:4247:13)
+      at AST_Assign.eval [as print] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymo  us>:4253:13)
+      at AST_Seq.eval [as _do_print] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonym  ous>:4874:18)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:4885:14)
+      at doit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:4247:13)
+
+success delete html and css files from previous builds — 0.049 s
+success open and validate gatsby-config.js — 0.005 s
+success copy gatsby files — 0.019 s
+success onPreBootstrap — 0.014 s
+success source and transform nodes — 0.022 s
+success building schema — 0.128 s
+success createLayouts — 0.027 s
+⠁
+
+
+
+Creating 2000 pages passing data via 'pathContext'
+
+
+success createPages — 3.458 s
+success createPagesStatefully — 0.183 s
+success onPreExtractQueries — 0.000 s
+success update schema — 0.283 s
+warning The GraphQL query in the non-page component "/Users/paul/Development/javascript/gatsby-sample/src/templates/data-product.jsx" will not be run.
+Queries are only executed for Page or Layout components. Instead of a query,
+co-locate a GraphQL fragment and compose that fragment into the query (or other
+fragment) of the top-level page or layout that renders this component. For more
+info on fragments and composition see: http://graphql.org/learn/queries/#fragments
+success extract queries from components — 0.034 s
+success run graphql queries — 0.804 s
+success write out page data — 0.079 s
+success write out redirect data — 0.001 s
+success onPostBootstrap — 0.001 s
+
+info bootstrap finished - 6.38 s
+
+success Building CSS — 5.941 s
+⠂ Building production JavaScript bundles[BABEL] Note: The code generator has deoptimised the styling of "/Users/paul/Development/javascript/gatsby-sample/.cache/async-requires.js" as it exceeds the max of "500KB".
+
+error Generating JavaScript bundles failed
+
+
+  Error: app-9198e195e290ff2d9740.js from UglifyJs
+  RangeError: Maximum call stack size exceeded
+      at RegExp.test (<anonymous>)
+      at is_identifier_string (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:15  27:36)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:8133:73)
+      at AST_Sub.eval [as optimize] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymo  us>:5387:23)
+      at Compressor.before (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:5370:  21)
+      at AST_Sub.eval [as transform] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonym  ous>:2985:35)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:3120:31)
+      at Compressor.before (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:5369:  9)
+      at AST_Assign.eval [as transform] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <ano  nymous>:2985:35)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:3102:29)
+      at Compressor.before (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:5369:  9)
+      at AST_Seq.eval [as transform] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonym  ous>:2985:35)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:3103:29)
+      at Compressor.before (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:5369:  9)
+      at AST_Seq.eval [as transform] (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonym  ous>:2985:35)
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:3103:29)
+
+success delete html and css files from previous builds — 0.019 s
+success open and validate gatsby-config.js — 0.006 s
+success copy gatsby files — 0.018 s
+success onPreBootstrap — 0.026 s
+success source and transform nodes — 0.029 s
+success building schema — 0.132 s
+success createLayouts — 0.067 s
+⠁
+
+
+
+Creating 2500 pages passing data via 'pathContext'
+
+
+success createPages — 6.405 s
+success createPagesStatefully — 0.282 s
+success onPreExtractQueries — 0.001 s
+success update schema — 0.382 s
+warning The GraphQL query in the non-page component "/Users/paul/Development/javascript/gatsby-sample/src/templates/data-product.jsx" will not be run.
+Queries are only executed for Page or Layout components. Instead of a query,
+co-locate a GraphQL fragment and compose that fragment into the query (or other
+fragment) of the top-level page or layout that renders this component. For more
+info on fragments and composition see: http://graphql.org/learn/queries/#fragments
+success extract queries from components — 0.085 s
+success run graphql queries — 1.229 s
+success write out page data — 0.094 s
+success write out redirect data — 0.001 s
+success onPostBootstrap — 0.000 s
+
+info bootstrap finished - 10.998 s
+
+⠠ Building CSS[BABEL] Note: The code generator has deoptimised the styling of "/Users/paul/Development/javascript/gatsby-sample/.cache/sync-requires.js" as it exceeds the max of "500KB".
+success Building CSS — 8.172 s
+⠂ Building production JavaScript bundles[BABEL] Note: The code generator has deoptimised the styling of "/Users/paul/Development/javascript/gatsby-sample/.cache/async-requires.js" as it exceeds the max of "500KB".
+
+error Generating JavaScript bundles failed
+
+
+  Error: app-ca7b8594b7fbc319c160.js from UglifyJs
+  RangeError: Maximum call stack size exceeded
+      at AST_Number._walk (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:426:20  )
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:901:21)
+      at Array.forEach (<anonymous>)
+      at AST_Call.eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:900:23)
+      at TreeWalker._visit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:1272:  21)
+      at AST_Call._walk (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:898:24)
+      at AST_Assign.eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:1035:24  )
+      at TreeWalker._visit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:1272:  21)
+      at AST_Assign._walk (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:1033:2  4)
+      at AST_Seq.eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:971:22)
+      at TreeWalker._visit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:1272:  21)
+      at AST_Seq._walk (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:970:24)
+      at AST_Seq.eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:972:36)
+      at TreeWalker._visit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:1272:  21)
+      at AST_Seq._walk (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:970:24)
+      at AST_Seq.eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:972:36)
+
+success delete html and css files from previous builds — 0.037 s
+success open and validate gatsby-config.js — 0.004 s
+success copy gatsby files — 0.019 s
+success onPreBootstrap — 0.012 s
+success source and transform nodes — 0.018 s
+success building schema — 0.097 s
+success createLayouts — 0.023 s
+⠁
+
+
+
+Creating 3000 pages passing data via 'pathContext'
+
+
+success createPages — 6.175 s
+success createPagesStatefully — 0.319 s
+success onPreExtractQueries — 0.000 s
+success update schema — 0.463 s
+warning The GraphQL query in the non-page component "/Users/paul/Development/javascript/gatsby-sample/src/templates/data-product.jsx" will not be run.
+Queries are only executed for Page or Layout components. Instead of a query,
+co-locate a GraphQL fragment and compose that fragment into the query (or other
+fragment) of the top-level page or layout that renders this component. For more
+info on fragments and composition see: http://graphql.org/learn/queries/#fragments
+success extract queries from components — 0.059 s
+success run graphql queries — 1.197 s
+success write out page data — 0.113 s
+success write out redirect data — 0.001 s
+success onPostBootstrap — 0.001 s
+
+info bootstrap finished - 9.72 s
+
+success Building CSS — 6.479 s
+
+error Generating JavaScript bundles failed
+
+
+  Error: app-3d2a6df79a209c3a3cea.js from UglifyJs
+  RangeError: Maximum call stack size exceeded
+      at AST_Number._walk (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:426:20  )
+      at eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:901:21)
+      at Array.forEach (<anonymous>)
+      at AST_Call.eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:900:23)
+      at TreeWalker._visit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:1272:  21)
+      at AST_Call._walk (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:898:24)
+      at AST_Assign.eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:1035:24  )
+      at TreeWalker._visit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:1272:  21)
+      at AST_Assign._walk (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:1033:2  4)
+      at AST_Seq.eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:971:22)
+      at TreeWalker._visit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:1272:  21)
+      at AST_Seq._walk (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:970:24)
+      at AST_Seq.eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:972:36)
+      at TreeWalker._visit (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:1272:  21)
+      at AST_Seq._walk (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:970:24)
+      at AST_Seq.eval (eval at <anonymous> (/Users/paul/Development/javascript/gatsby-sample/node_modules/webpack/node_modules/uglify-js/tools/node.js:28:1), <anonymous>:972:36)
