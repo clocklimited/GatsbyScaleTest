@@ -1,5 +1,7 @@
 # Gatsby Scale Test
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/clocklimited/GatsbyScaleTest.svg)](https://greenkeeper.io/)
+
 Example of scale with Gatsby creating 500-3000 pages.
 
 ```
